@@ -16,16 +16,16 @@
 * Converting grey image to blurred image using Gaussian Blur
 * Detecting edges using canny edge detector
 * dilation and erosion of inage for better contour detection.
-<img src="https://github.com/Dineshkumar536/extra/blob/master/images/header.jpg" alt="DSC-NSEC" height="60"/>
+<img src="/images/Threshold.jpg" height="250"/>
 
 ## Contour Detection
 * He we handle all the contour Detected and keep only the one with the greatest contour area.
 * After getting that contour we draw a bounding box around it for visualisation and keep the coordinates of the corners of the required contour detected.
-![](/images/Conttour.jpg)
+<img src="/images/Conttour.jpg" height="250"/>
 
 ## Wrapping the Image
 * In this step we wrap the image with the ordered points i.e. (0,0) (width, 0) (0, height) and (width, height) which we got from the reorder function.
 
 ## Result Image
 * Here we diplay the the final scanned image.
-![](/images/Scanned.jpg)
+<img src="/images/Scanned.jpg" height="250"/>
