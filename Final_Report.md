@@ -8,6 +8,14 @@
 * **Organisation:** DSC - NSEC
 * **Project:** [DocScanner](https://github.com/dscnsec/DocScanner.git)
 
+## Language Used
+* Python
+
+## Library Used
+* OpenCV
+* Numpy
+
+## There are Following Steps:-
 ## Reading image using OpenCV
 <img src="/images/1.jpg" height="250"/>
 
@@ -29,3 +37,12 @@
 ## Result Image
 * Here we diplay the the final scanned image.
 <img src="/images/Scanned.jpg" height="250"/>
+
+## Link To My Pull Request
+https://github.com/dscnsec/DocScanner/pull/5
+
+## Future Scope
+* Working in the project of DocScanner not only we got more application in machine learning but we also got more intents towards different arean of computer vision.
+
+## Overall Experience
+* It was great exprience for me to got into Open Source culture through this great program and I would love to encorage more students to do this program in future.
