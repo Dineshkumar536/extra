@@ -9,7 +9,7 @@
 * **Project:** [DocScanner](https://github.com/dscnsec/DocScanner.git)
 
 ## Reading image using OpenCV
-<img src="https://github.com/Dineshkumar536/extra/blob/master/images/header.jpg" alt="DSC-NSEC" height="60"/>
+<img src="/images/1.jpg" height="60"/>
 
 ## Image Preprocessing
 * Converting orginal image to grey color
