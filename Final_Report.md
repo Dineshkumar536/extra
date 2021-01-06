@@ -9,14 +9,14 @@
 * **Project:** [DocScanner](https://github.com/dscnsec/DocScanner.git)
 
 ## Reading image using OpenCV
-![](/images/1.jpg)
+<img src="https://github.com/Dineshkumar536/extra/blob/master/images/header.jpg" alt="DSC-NSEC" height="60"/>
 
 ## Image Preprocessing
 * Converting orginal image to grey color
 * Converting grey image to blurred image using Gaussian Blur
 * Detecting edges using canny edge detector
 * dilation and erosion of inage for better contour detection.
-![](/images/Threshold.jpg)
+<img src="https://github.com/Dineshkumar536/extra/blob/master/images/header.jpg" alt="DSC-NSEC" height="60"/>
 
 ## Contour Detection
 * He we handle all the contour Detected and keep only the one with the greatest contour area.
