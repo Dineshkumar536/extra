@@ -9,7 +9,6 @@
 * **Project:** [DocScanner](https://github.com/dscnsec/DocScanner.git)
 
 ## Reading image using OpenCV
-* images
 ![](/images/1.jpg)
 
 ## Image Preprocessing
@@ -17,13 +16,11 @@
 * Converting grey image to blurred image using Gaussian Blur
 * Detecting edges using canny edge detector
 * dilation and erosion of inage for better contour detection.
-* images
 ![](/images/Threshold.jpg)
 
 ## Contour Detection
 * He we handle all the contour Detected and keep only the one with the greatest contour area.
 * After getting that contour we draw a bounding box around it for visualisation and keep the coordinates of the corners of the required contour detected.
-* images 
 ![](/images/Conttour.jpg)
 
 ## Wrapping the Image
@@ -31,5 +28,4 @@
 
 ## Result Image
 * Here we diplay the the final scanned image.
-* images
 ![](/images/Scanned.jpg)
